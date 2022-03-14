@@ -1,0 +1,244 @@
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 11:22:06'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 11:22:26'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 11:23:29'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 11:35:28'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 11:51:46'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 13:56:12'
+}
+{
+  code: 'INVALID TOKEN ERROR',
+  message: 'Exception in authenticating current request :  invalid_code',
+  cause: null,
+  details: null,
+  level: 'error',
+  stack: 'Error: invalid_code\n' +
+    '    at OAuthToken.parseResponse (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\models\\authenticator\\oauth_token.js:325:19)\n' +
+    '    at OAuthToken.generateAccessToken (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\models\\authenticator\\oauth_token.js:299:24)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n' +
+    '    at async OAuthToken.authenticate (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\models\\authenticator\\oauth_token.js:200:120)\n' +
+    '    at async CommonAPIHandler.apiCall (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\routes\\middlewares\\common_api_handler.js:209:4)\n' +
+    '    at async Function.getFieldsDetails (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\utils\\util\\utility.js:491:24)\n' +
+    '    at async Function.getFieldsInfo (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\utils\\util\\utility.js:223:37)\n' +
+    '    at async Function.getFields (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\utils\\util\\utility.js:130:9)\n' +
+    '    at async RecordOperations.getRecords (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\core\\com\\zoho\\crm\\api\\record\\record_operations.js:161:3)\n' +
+    '    at async Function.initialize (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\index.js:94:20)',
+  timestamp: '2022-02-22 13:56:14'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 13:57:52'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/settings/fields?module=Leads& , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [["module","Leads"]].`,
+  level: 'info',
+  timestamp: '2022-02-22 13:57:53'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/settings/fields?module=Items& , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [["module","Items"]].`,
+  level: 'info',
+  timestamp: '2022-02-22 13:57:55'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 13:57:56'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 13:58:42'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 13:58:42'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 13:59:02'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 13:59:02'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:02:10'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:02:10'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:03:58'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:03:58'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:04:40'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:04:40'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:06:49'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:06:49'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:07:13'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:07:13'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:12:46'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:12:46'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:13:05'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:13:05'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-22 14:14:40'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-22 14:14:40'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-23 13:17:36'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-23 13:17:38'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-23 13:18:24'
+}
+{
+  code: 'INVALID TOKEN ERROR',
+  message: 'Exception in authenticating current request :  invalid_code',
+  cause: null,
+  details: null,
+  level: 'error',
+  stack: 'Error: invalid_code\n' +
+    '    at OAuthToken.parseResponse (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\models\\authenticator\\oauth_token.js:325:19)\n' +
+    '    at OAuthToken.generateAccessToken (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\models\\authenticator\\oauth_token.js:299:24)\n' +
+    '    at processTicksAndRejections (node:internal/process/task_queues:96:5)\n' +
+    '    at async OAuthToken.authenticate (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\models\\authenticator\\oauth_token.js:200:120)\n' +
+    '    at async CommonAPIHandler.apiCall (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\node_modules\\@zohocrm\\nodejs-sdk-2.0\\routes\\middlewares\\common_api_handler.js:209:4)\n' +
+    '    at async Function.initialize (C:\\Users\\Lenovo\\Desktop\\komang\\test-zoho-sdk\\index.js:82:20)',
+  timestamp: '2022-02-23 13:18:26'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-23 13:20:23'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-23 13:20:23'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-23 13:20:50'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-23 13:20:50'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-23 13:23:31'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-23 13:23:31'
+}
+{
+  message: 'Initialization successful for Email Id : smartmatesxkovernow@gmail.com in Environment : https://www.zohoapis.com.',
+  level: 'info',
+  timestamp: '2022-02-23 13:29:59'
+}
+{
+  message: 'Access Token has expired. Hence refreshing.',
+  level: 'info',
+  timestamp: '2022-02-23 13:29:59'
+}
+{
+  message: `REQUEST-METHOD = GET , URL = https://www.zohoapis.com/crm/v2/Leads , HEADERS = [["Authorization"," ## can't disclose ## "],["X-ZOHO-SDK","win32/10.0.19041/nodejs-2.0/v16.14.0:5.0.0"]] , PARAMS = [].`,
+  level: 'info',
+  timestamp: '2022-02-23 13:30:02'
+}
